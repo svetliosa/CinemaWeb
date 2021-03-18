@@ -1,0 +1,1177 @@
+2020-05-19   14:09:19  -  Login failed
+2020-05-19   14:09:29  -  Login for first time
+2020-05-19   14:09:36  -  Change password/username successfully
+2020-05-19   14:09:40  -  Recovery code generated
+2020-05-19   14:10:07  -  Exit
+
+2020-05-19   14:10:17  -  Login successfully
+2020-05-19   14:10:26  -  Exit
+
+2020-05-19   14:14:53  -  Forgot password
+2020-05-19   14:14:56  -  Recovery code is incorrect
+2020-05-19   14:17:51  -  Forgot password
+2020-05-19   14:17:54  -  Recovery code is incorrect
+2020-05-19   14:18:01  -  Recovery code is correct
+2020-05-19   14:18:22  -  Change password/username successfully
+2020-05-19   14:18:29  -  Recovery code generated
+2020-05-19   14:18:49  -  Exit
+
+2020-05-19   14:18:56  -  Login successfully
+2020-05-19   14:19:32  -  Account is deleted successfully with username: ivan
+2020-05-19   14:20:02  -  Account is deleted successfully with username: ValiG
+2020-05-19   14:20:08  -  Account is deleted successfully with username: mlqkosoriz
+2020-05-19   14:20:25  -  Account is deleted successfully with username: warmog
+2020-05-19   14:20:35  -  Account is deleted successfully with username: nikicha
+2020-05-19   14:20:41  -  Account is deleted successfully with username: Pavkata
+2020-05-19   14:21:45  -  Account is created successfully with username: Pujo
+2020-05-19   14:22:34  -  Account is created successfully with username: ValiG
+2020-05-19   14:29:38  -  Account is created successfully with username: warmog
+2020-05-19   14:30:17  -  Account is created successfully with username: nikicha
+2020-05-19   14:30:52  -  Account is created successfully with username: Pavkata
+2020-05-19   14:31:40  -  Account is edited successfully with username: test
+2020-05-19   14:32:01  -  Account is found successfully with username: warmog
+2020-05-19   15:07:10  -  Login successfully
+2020-05-19   15:09:02  -  Login successfully
+2020-05-19   15:10:01  -  Login successfully
+2020-05-19   15:11:58  -  Login successfully
+2020-05-19   15:12:05  -  Exit
+
+2020-05-19   15:15:03  -  Login successfully
+2020-05-19   15:15:07  -  Exit
+
+2020-05-19   15:15:29  -  Login successfully
+2020-05-19   15:15:37  -  Exit
+
+2020-05-19   15:15:47  -  Login successfully
+2020-05-19   15:28:01  -  Login successfully
+2020-05-19   15:29:18  -  Login successfully
+2020-05-19   15:29:25  -  Exit
+
+2020-05-19   15:30:12  -  Login successfully
+2020-05-19   15:30:16  -  Exit
+
+2020-05-19   15:32:03  -  Exit
+
+2020-05-19   15:32:10  -  Exit
+
+2020-05-19   15:32:21  -  Exit
+
+2020-05-19   15:42:06  -  Login successfully
+2020-05-19   15:42:17  -  Exit
+
+2020-05-19   15:42:49  -  Login successfully
+2020-05-19   15:42:51  -  Exit
+
+2020-05-19   15:49:41  -  Login successfully
+2020-05-19   15:49:45  -  Exit
+
+2020-05-19   15:51:49  -  Login successfully
+2020-05-19   15:51:53  -  Exit
+
+2020-05-19   16:02:27  -  Login successfully
+2020-05-19   16:10:35  -  Login successfully
+2020-05-19   16:10:45  -  Exit
+
+2020-05-19   16:18:02  -  The session is created with a duration: 1800
+2020-05-19   16:18:03  -  Login successfully
+2020-05-19   16:19:01  -  Exit
+
+2020-05-19   16:19:01  -  The session was destroyed
+2020-05-19   16:19:34  -  The session is created with a duration: 30 minutes
+2020-05-19   16:19:34  -  Login successfully
+2020-05-19   16:20:59  -  The session is created with a duration: 30 minutes
+2020-05-19   16:20:59  -  Login successfully
+2020-05-19   16:21:00  -  The session was destroyed
+2020-05-19   16:21:00  -  Exit
+
+2020-05-19   16:22:36  -  The session is created with a duration: 30 minutes
+2020-05-19   16:22:36  -  Login successfully
+2020-05-19   16:22:39  -  The session was destroyed
+2020-05-19   16:22:39  -  Exit
+
+2020-05-19   16:22:56  -  The session is created with a duration: 30 minutes
+2020-05-19   16:22:56  -  Login successfully
+2020-05-19   16:23:02  -  The session was destroyed
+2020-05-19   16:23:02  -  Exit
+
+2020-05-19   16:23:06  -  The session is created with a duration: 30 minutes
+2020-05-19   16:23:06  -  Login successfully
+2020-05-19   16:23:09  -  The session was destroyed
+2020-05-19   16:23:09  -  Exit
+
+2020-05-19   16:23:11  -  The session has expired
+2020-05-19   16:25:15  -  The session is created with a duration: 30 minutes
+2020-05-19   16:25:15  -  The session has expired
+2020-05-19   16:26:51  -  The session is created with a duration: 30 minutes
+2020-05-19   16:26:51  -  Login successfully
+2020-05-19   16:26:55  -  The session was destroyed
+2020-05-19   16:26:55  -  Exit
+
+2020-05-19   16:26:58  -  The session has expired
+2020-05-19   16:27:13  -  The session has expired
+2020-05-19   16:27:25  -  The session has expired
+2020-05-19   16:27:32  -  The session has expired
+2020-05-19   16:27:52  -  The session has expired
+2020-05-19   16:27:54  -  The session has expired
+2020-05-19   16:27:55  -  The session has expired
+2020-05-19   16:27:56  -  The session has expired
+2020-05-19   16:27:57  -  The session has expired
+2020-05-19   16:29:20  -  Forgot password
+2020-05-19   16:29:29  -  The session is created with a duration: 30 minutes
+2020-05-19   16:29:30  -  Login successfully
+2020-05-19   16:30:35  -  The session was destroyed
+2020-05-19   16:30:35  -  Exit
+
+2020-05-19   16:30:41  -  The session is created with a duration: 30 minutes
+2020-05-19   16:30:41  -  The session has expired
+2020-05-19   16:32:56  -  The session is created with a duration: 30 minutes
+2020-05-19   16:32:56  -  Login successfully
+2020-05-19   16:32:58  -  The session was destroyed
+2020-05-19   16:32:58  -  Exit
+
+2020-05-19   16:33:14  -  The session is created with a duration: 30 minutes
+2020-05-19   16:33:14  -  Login successfully
+2020-05-19   16:33:16  -  The session was destroyed
+2020-05-19   16:33:16  -  Exit
+
+2020-05-19   16:35:06  -  The session was destroyed
+2020-05-19   16:35:06  -  Exit
+
+2020-05-19   16:35:11  -  The session is created with a duration: 30 minutes
+2020-05-19   16:35:11  -  Login for first time
+2020-05-19   16:35:41  -  Change password/username successfully
+2020-05-19   16:36:05  -  Recovery code generated
+2020-05-19   16:36:10  -  The session was destroyed
+2020-05-19   16:36:10  -  Exit
+
+2020-05-19   16:36:24  -  The session is created with a duration: 30 minutes
+2020-05-19   16:36:24  -  Login failed
+2020-05-19   16:36:41  -  Change password/username successfully
+2020-05-19   16:39:05  -  The session is created with a duration: 30 minutes
+2020-05-19   16:39:05  -  Login successfully
+2020-05-19   16:39:07  -  The session was destroyed
+2020-05-19   16:39:07  -  Exit
+
+2020-05-19   16:39:13  -  The session has expired
+2020-05-19   16:40:40  -  The session has expired
+2020-05-19   16:40:48  -  Login failed
+2020-05-19   16:40:56  -  The session has expired
+2020-05-20   12:04:34  -  Login failed
+2020-05-20   12:05:03  -  The session is created with a duration: 30 minutes
+2020-05-20   12:05:03  -  Login successfully
+2020-05-20   12:05:45  -  The session was destroyed
+2020-05-20   12:05:45  -  Exit
+
+2020-05-20   12:06:53  -  The session is created with a duration: 30 minutes
+2020-05-20   12:06:53  -  Login for first time
+2020-05-20   12:07:45  -  Change password/username successfully
+2020-05-20   12:08:10  -  Recovery code generated
+2020-05-20   12:08:43  -  The session was destroyed
+2020-05-20   12:08:43  -  Exit
+
+2020-05-20   12:08:47  -  Forgot password
+2020-05-20   12:08:58  -  Recovery code is correct
+2020-05-20   12:09:09  -  Change password/username successfully
+2020-05-20   12:09:20  -  Recovery code generated
+2020-05-20   12:09:29  -  The session was destroyed
+2020-05-20   12:09:29  -  Exit
+
+2020-05-20   12:09:34  -  Login failed
+2020-05-20   12:09:41  -  The session has expired
+2020-05-20   12:09:46  -  The session has expired
+2020-05-20   12:09:49  -  The session has expired
+2020-05-20   12:09:52  -  The session has expired
+2020-05-20   12:09:55  -  The session has expired
+2020-05-20   12:09:58  -  The session has expired
+2020-05-20   12:10:18  -  The session is created with a duration: 30 minutes
+2020-05-20   12:10:18  -  Login successfully
+2020-05-20   12:14:55  -  The session is created with a duration: 30 minutes
+2020-05-20   12:14:55  -  Login successfully
+2020-05-20   12:15:03  -  The session was destroyed
+2020-05-20   12:15:03  -  Exit
+
+2020-05-20   12:15:06  -  The session is created with a duration: 30 minutes
+2020-05-20   12:15:06  -  Login successfully
+2020-05-20   12:15:42  -  The session was destroyed
+2020-05-20   12:15:42  -  Exit
+
+2020-05-20   12:15:56  -  The session is created with a duration: 30 minutes
+2020-05-20   12:15:56  -  Login successfully
+2020-05-20   12:16:51  -  Login failed
+2020-05-20   12:17:00  -  The session is created with a duration: 30 minutes
+2020-05-20   12:17:00  -  Login successfully
+2020-05-20   12:17:02  -  The session is created with a duration: 30 minutes
+2020-05-20   12:17:02  -  Login successfully
+2020-05-20   12:17:03  -  The session is created with a duration: 30 minutes
+2020-05-20   12:17:03  -  Login successfully
+2020-05-20   12:17:04  -  The session is created with a duration: 30 minutes
+2020-05-20   12:17:04  -  Login successfully
+2020-05-20   12:17:04  -  The session is created with a duration: 30 minutes
+2020-05-20   12:17:04  -  Login successfully
+2020-05-20   12:17:04  -  The session is created with a duration: 30 minutes
+2020-05-20   12:17:04  -  Login successfully
+2020-05-20   12:17:05  -  The session is created with a duration: 30 minutes
+2020-05-20   12:17:05  -  Login successfully
+2020-05-20   12:17:05  -  The session is created with a duration: 30 minutes
+2020-05-20   12:17:05  -  Login successfully
+2020-05-20   12:17:05  -  The session is created with a duration: 30 minutes
+2020-05-20   12:17:05  -  Login successfully
+2020-05-20   12:17:05  -  The session is created with a duration: 30 minutes
+2020-05-20   12:17:05  -  Login successfully
+2020-05-20   12:17:05  -  The session is created with a duration: 30 minutes
+2020-05-20   12:17:05  -  Login successfully
+2020-05-20   12:17:06  -  The session is created with a duration: 30 minutes
+2020-05-20   12:17:06  -  Login successfully
+2020-05-20   12:17:06  -  The session is created with a duration: 30 minutes
+2020-05-20   12:17:06  -  Login successfully
+2020-05-20   12:17:06  -  The session is created with a duration: 30 minutes
+2020-05-20   12:17:06  -  Login successfully
+2020-05-20   12:20:19  -  Account is found successfully with username: ValiG
+2020-05-20   12:20:36  -  Account is found successfully with username: warmog
+2020-05-20   12:20:55  -  Account is edited successfully with username: warmog
+2020-05-20   13:27:20  -  The session is created with a duration: 30 minutes
+2020-05-20   13:27:20  -  Login successfully
+2020-05-20   13:30:02  -  The session is created with a duration: 30 minutes
+2020-05-20   13:30:02  -  Login successfully
+2020-05-20   13:31:09  -  The session is created with a duration: 30 minutes
+2020-05-20   13:31:09  -  Login successfully
+2020-05-20   13:32:46  -  The session is created with a duration: 30 minutes
+2020-05-20   13:32:46  -  Login successfully
+2020-05-20   13:32:56  -  The session was destroyed
+2020-05-20   13:32:56  -  Exit
+
+2020-05-20   13:33:00  -  The session is created with a duration: 30 minutes
+2020-05-20   13:33:00  -  Login successfully
+2020-05-20   13:34:17  -  The session is created with a duration: 30 minutes
+2020-05-20   13:34:17  -  Login successfully
+2020-05-20   13:35:21  -  The session is created with a duration: 30 minutes
+2020-05-20   13:35:21  -  Login successfully
+2020-05-20   13:36:03  -  Show all employees
+2020-05-20   13:36:07  -  The session is created with a duration: 30 minutes
+2020-05-20   13:36:07  -  Login successfully
+2020-05-20   13:37:33  -  The session is created with a duration: 30 minutes
+2020-05-20   13:37:33  -  Login successfully
+2020-05-20   13:38:10  -  The session was destroyed
+2020-05-20   13:38:10  -  Exit
+
+2020-05-20   13:38:14  -  The session is created with a duration: 30 minutes
+2020-05-20   13:38:14  -  Login successfully
+2020-05-20   13:38:53  -  Show all employees
+2020-05-20   13:38:58  -  The session is created with a duration: 30 minutes
+2020-05-20   13:38:58  -  Login successfully
+2020-05-20   13:39:39  -  The session is created with a duration: 30 minutes
+2020-05-20   13:39:39  -  Login successfully
+2020-05-20   13:40:45  -  The session is created with a duration: 30 minutes
+2020-05-20   13:40:45  -  Login successfully
+2020-05-20   13:41:23  -  The session is created with a duration: 30 minutes
+2020-05-20   13:41:23  -  Login successfully
+2020-05-20   13:41:40  -  Show all employees
+2020-05-20   13:41:45  -  The session is created with a duration: 30 minutes
+2020-05-20   13:41:45  -  Login successfully
+2020-05-20   13:41:57  -  Account is found successfully with username: ValiG
+2020-05-20   13:42:03  -  The session was destroyed
+2020-05-20   13:42:03  -  Exit
+
+2020-05-20   13:42:08  -  The session is created with a duration: 30 minutes
+2020-05-20   13:42:08  -  Login successfully
+2020-05-20   13:44:07  -  Show all employees
+2020-05-20   13:44:11  -  The session is created with a duration: 30 minutes
+2020-05-20   13:44:11  -  Login successfully
+2020-05-20   13:45:41  -  The session is created with a duration: 30 minutes
+2020-05-20   13:45:41  -  Login successfully
+2020-05-20   13:46:14  -  The session is created with a duration: 30 minutes
+2020-05-20   13:46:14  -  Login successfully
+2020-05-20   13:47:36  -  Show all employees
+2020-05-20   13:47:41  -  The session is created with a duration: 30 minutes
+2020-05-20   13:47:41  -  Login successfully
+2020-05-20   13:49:55  -  The session is created with a duration: 30 minutes
+2020-05-20   13:49:55  -  Login successfully
+2020-05-20   13:52:56  -  The session is created with a duration: 30 minutes
+2020-05-20   13:52:56  -  Login successfully
+2020-05-20   13:54:12  -  The session is created with a duration: 30 minutes
+2020-05-20   13:54:12  -  Login successfully
+2020-05-20   16:18:45  -  The session has expired
+2020-05-20   16:18:49  -  The session is created with a duration: 30 minutes
+2020-05-20   16:18:49  -  Login successfully
+2020-05-20   16:22:06  -  The session is created with a duration: 30 minutes
+2020-05-20   16:22:06  -  Login successfully
+2020-05-20   16:23:23  -  The session is created with a duration: 30 minutes
+2020-05-20   16:23:23  -  Login successfully
+2020-05-20   16:26:02  -  The session is created with a duration: 30 minutes
+2020-05-20   16:26:02  -  Login successfully
+2020-05-20   16:27:30  -  Show all employees
+2020-05-20   16:27:34  -  The session is created with a duration: 30 minutes
+2020-05-20   16:27:34  -  Login successfully
+2020-05-20   16:28:06  -  Show all employees
+2020-05-20   16:28:10  -  The session is created with a duration: 30 minutes
+2020-05-20   16:28:10  -  Login successfully
+2020-05-20   16:28:40  -  The session is created with a duration: 30 minutes
+2020-05-20   16:28:40  -  Login successfully
+2020-05-20   16:33:39  -  The session was destroyed
+2020-05-20   16:33:39  -  Exit
+
+2020-05-20   16:33:43  -  The session is created with a duration: 30 minutes
+2020-05-20   16:33:43  -  Login successfully
+2020-05-20   16:33:46  -  The session was destroyed
+2020-05-20   16:33:46  -  Exit
+
+2020-05-20   16:33:49  -  Show all employees
+2020-05-20   16:33:54  -  The session is created with a duration: 30 minutes
+2020-05-20   16:33:54  -  Login successfully
+2020-05-20   16:35:59  -  The session is created with a duration: 30 minutes
+2020-05-20   16:35:59  -  Login successfully
+2020-05-22   10:16:00  -  The session is created with a duration: 30 minutes
+2020-05-22   10:16:00  -  Login successfully
+2020-05-22   10:25:57  -  The session is created with a duration: 30 minutes
+2020-05-22   10:25:57  -  Login successfully
+2020-05-22   10:32:42  -  The session is created with a duration: 30 minutes
+2020-05-22   10:32:42  -  Login successfully
+2020-05-22   10:33:28  -  The session is created with a duration: 30 minutes
+2020-05-22   10:33:28  -  Login successfully
+2020-05-22   11:01:47  -  The session is created with a duration: 30 minutes
+2020-05-22   11:01:47  -  Login successfully
+2020-05-22   11:12:43  -  The session is created with a duration: 30 minutes
+2020-05-22   11:12:43  -  Login successfully
+2020-05-22   11:14:29  -  The session is created with a duration: 30 minutes
+2020-05-22   11:14:29  -  Login successfully
+2020-05-22   11:18:54  -  The session is created with a duration: 30 minutes
+2020-05-22   11:18:54  -  Login successfully
+2020-05-22   11:24:31  -  The session is created with a duration: 30 minutes
+2020-05-22   11:24:31  -  Login successfully
+2020-05-22   12:23:38  -  The session has expired
+2020-05-22   12:23:42  -  The session is created with a duration: 30 minutes
+2020-05-22   12:23:42  -  Login successfully
+2020-05-22   12:29:45  -  The session is created with a duration: 30 minutes
+2020-05-22   12:29:45  -  Login successfully
+2020-05-22   12:30:47  -  The session is created with a duration: 30 minutes
+2020-05-22   12:30:47  -  Login successfully
+2020-05-22   12:33:16  -  Show all employees
+2020-05-22   12:33:20  -  The session is created with a duration: 30 minutes
+2020-05-22   12:33:20  -  Login successfully
+2020-05-22   12:38:18  -  The session is created with a duration: 30 minutes
+2020-05-22   12:38:18  -  Login successfully
+2020-05-22   12:38:48  -  The session is created with a duration: 30 minutes
+2020-05-22   12:38:48  -  Login successfully
+2020-05-22   12:39:44  -  The session is created with a duration: 30 minutes
+2020-05-22   12:39:44  -  Login successfully
+2020-05-22   12:40:25  -  The session is created with a duration: 30 minutes
+2020-05-22   12:40:25  -  Login successfully
+2020-05-22   12:41:01  -  The session is created with a duration: 30 minutes
+2020-05-22   12:41:01  -  Login successfully
+2020-05-22   12:43:21  -  The session is created with a duration: 30 minutes
+2020-05-22   12:43:21  -  Login successfully
+2020-05-22   12:51:18  -  The session is created with a duration: 30 minutes
+2020-05-22   12:51:18  -  Login successfully
+2020-05-22   13:00:21  -  The session is created with a duration: 30 minutes
+2020-05-22   13:00:21  -  Login successfully
+2020-05-22   13:00:57  -  The session is created with a duration: 30 minutes
+2020-05-22   13:00:57  -  Login successfully
+2020-05-22   13:04:57  -  Show all employees
+2020-05-22   13:05:00  -  The session is created with a duration: 30 minutes
+2020-05-22   13:05:00  -  Login successfully
+2020-05-22   13:05:58  -  The session is created with a duration: 30 minutes
+2020-05-22   13:05:58  -  Login successfully
+2020-05-22   13:06:50  -  The session is created with a duration: 30 minutes
+2020-05-22   13:06:50  -  Login successfully
+2020-05-22   13:08:17  -  The session is created with a duration: 30 minutes
+2020-05-22   13:08:17  -  Login successfully
+2020-05-22   13:09:43  -  The session is created with a duration: 30 minutes
+2020-05-22   13:09:43  -  Login successfully
+2020-05-22   13:11:26  -  Show all employees
+2020-05-22   13:11:29  -  The session is created with a duration: 30 minutes
+2020-05-22   13:11:29  -  Login successfully
+2020-05-22   13:12:08  -  The session is created with a duration: 30 minutes
+2020-05-22   13:12:08  -  Login successfully
+2020-05-22   13:15:01  -  The session is created with a duration: 30 minutes
+2020-05-22   13:15:01  -  Login successfully
+2020-05-22   13:16:22  -  Account is created successfully with username: Anton
+2020-05-22   13:18:20  -  The session is created with a duration: 30 minutes
+2020-05-22   13:18:20  -  Login successfully
+2020-05-22   13:18:58  -  The session is created with a duration: 30 minutes
+2020-05-22   13:18:58  -  Login successfully
+2020-05-22   13:19:51  -  The session is created with a duration: 30 minutes
+2020-05-22   13:19:51  -  Login successfully
+2020-05-22   13:22:23  -  The session is created with a duration: 30 minutes
+2020-05-22   13:22:23  -  Login successfully
+2020-05-22   13:24:52  -  The session is created with a duration: 30 minutes
+2020-05-22   13:24:52  -  Login successfully
+2020-05-22   13:25:09  -  Account is found successfully with username: ValiG
+2020-05-22   13:26:59  -  The session is created with a duration: 30 minutes
+2020-05-22   13:26:59  -  Login successfully
+2020-05-22   13:28:36  -  The session is created with a duration: 30 minutes
+2020-05-22   13:28:36  -  Login successfully
+2020-05-22   13:29:41  -  Show all employees
+2020-05-22   13:29:46  -  The session is created with a duration: 30 minutes
+2020-05-22   13:29:46  -  Login successfully
+2020-05-22   13:42:16  -  The session is created with a duration: 30 minutes
+2020-05-22   13:42:16  -  Login successfully
+2020-05-22   13:43:04  -  The session is created with a duration: 30 minutes
+2020-05-22   13:43:04  -  Login successfully
+2020-05-22   13:49:40  -  The session is created with a duration: 30 minutes
+2020-05-22   13:49:40  -  Login successfully
+2020-05-22   13:51:12  -  The session is created with a duration: 30 minutes
+2020-05-22   13:51:12  -  Login successfully
+2020-05-22   13:51:42  -  The session is created with a duration: 30 minutes
+2020-05-22   13:51:42  -  Login successfully
+2020-05-22   13:52:30  -  The session is created with a duration: 30 minutes
+2020-05-22   13:52:30  -  Login successfully
+2020-05-22   13:53:06  -  The session is created with a duration: 30 minutes
+2020-05-22   13:53:06  -  Login successfully
+2020-05-22   13:53:32  -  The session is created with a duration: 30 minutes
+2020-05-22   13:53:32  -  Login successfully
+2020-05-22   13:55:01  -  The session is created with a duration: 30 minutes
+2020-05-22   13:55:01  -  Login successfully
+2020-05-22   13:55:33  -  The session is created with a duration: 30 minutes
+2020-05-22   13:55:33  -  Login successfully
+2020-05-22   13:56:21  -  The session is created with a duration: 30 minutes
+2020-05-22   13:56:21  -  Login successfully
+2020-05-22   13:57:34  -  The session is created with a duration: 30 minutes
+2020-05-22   13:57:34  -  Login successfully
+2020-05-22   13:58:09  -  The session is created with a duration: 30 minutes
+2020-05-22   13:58:09  -  Login successfully
+2020-05-22   13:58:51  -  The session is created with a duration: 30 minutes
+2020-05-22   13:58:51  -  Login successfully
+2020-05-22   14:00:19  -  The session is created with a duration: 30 minutes
+2020-05-22   14:00:19  -  Login successfully
+2020-05-22   14:01:03  -  The session is created with a duration: 30 minutes
+2020-05-22   14:01:03  -  Login successfully
+2020-05-22   14:01:34  -  The session is created with a duration: 30 minutes
+2020-05-22   14:01:34  -  Login successfully
+2020-05-22   14:02:23  -  The session is created with a duration: 30 minutes
+2020-05-22   14:02:23  -  Login successfully
+2020-05-22   14:04:21  -  The session is created with a duration: 30 minutes
+2020-05-22   14:04:21  -  Login successfully
+2020-05-22   14:04:59  -  The session is created with a duration: 30 minutes
+2020-05-22   14:04:59  -  Login successfully
+2020-05-22   14:06:28  -  The session is created with a duration: 30 minutes
+2020-05-22   14:06:28  -  Login successfully
+2020-05-22   14:07:07  -  The session is created with a duration: 30 minutes
+2020-05-22   14:07:07  -  Login successfully
+2020-05-22   14:07:38  -  The session is created with a duration: 30 minutes
+2020-05-22   14:07:38  -  Login successfully
+2020-05-22   14:08:17  -  The session is created with a duration: 30 minutes
+2020-05-22   14:08:17  -  Login successfully
+2020-05-22   14:11:15  -  The session is created with a duration: 30 minutes
+2020-05-22   14:11:15  -  Login successfully
+2020-05-22   14:12:12  -  The session is created with a duration: 30 minutes
+2020-05-22   14:12:12  -  Login successfully
+2020-05-22   14:13:06  -  The session is created with a duration: 30 minutes
+2020-05-22   14:13:06  -  Login successfully
+2020-05-22   14:14:38  -  The session is created with a duration: 30 minutes
+2020-05-22   14:14:38  -  Login successfully
+2020-05-22   14:16:51  -  The session is created with a duration: 30 minutes
+2020-05-22   14:16:51  -  Login successfully
+2020-05-22   14:18:21  -  The session is created with a duration: 30 minutes
+2020-05-22   14:18:21  -  Login successfully
+2020-05-22   14:19:24  -  The session is created with a duration: 30 minutes
+2020-05-22   14:19:24  -  Login successfully
+2020-05-22   14:20:28  -  The session is created with a duration: 30 minutes
+2020-05-22   14:20:28  -  Login successfully
+2020-05-22   14:21:10  -  The session is created with a duration: 30 minutes
+2020-05-22   14:21:10  -  Login successfully
+2020-05-22   14:21:24  -  Account is found successfully with username: ValiG
+2020-05-22   14:23:21  -  The session is created with a duration: 30 minutes
+2020-05-22   14:23:21  -  Login successfully
+2020-05-22   14:23:25  -  Account is found successfully with username: ValiG
+2020-05-22   14:27:42  -  The session has expired
+2020-05-22   14:27:46  -  The session is created with a duration: 30 minutes
+2020-05-22   14:27:46  -  Login successfully
+2020-05-22   14:27:50  -  Account is found successfully with username: ValiG
+2020-05-22   14:28:37  -  The session is created with a duration: 30 minutes
+2020-05-22   14:28:37  -  Login successfully
+2020-05-22   14:28:42  -  Account is found successfully with username: ValiG
+2020-05-22   14:29:28  -  The session is created with a duration: 30 minutes
+2020-05-22   14:29:28  -  Login successfully
+2020-05-22   14:43:22  -  The session is created with a duration: 30 minutes
+2020-05-22   14:43:22  -  Login successfully
+2020-05-22   14:44:03  -  Show all employees
+2020-05-22   14:44:07  -  The session is created with a duration: 30 minutes
+2020-05-22   14:44:07  -  Login successfully
+2020-05-22   14:44:51  -  The session is created with a duration: 30 minutes
+2020-05-22   14:44:51  -  Login successfully
+2020-05-22   14:46:38  -  The session is created with a duration: 30 minutes
+2020-05-22   14:46:38  -  Login successfully
+2020-05-22   14:47:17  -  The session is created with a duration: 30 minutes
+2020-05-22   14:47:17  -  Login successfully
+2020-05-22   14:47:49  -  The session is created with a duration: 30 minutes
+2020-05-22   14:47:49  -  Login successfully
+2020-05-22   14:48:28  -  The session is created with a duration: 30 minutes
+2020-05-22   14:48:28  -  Login successfully
+2020-05-22   14:48:52  -  Account is created successfully with username: testlonglonglonglong
+2020-05-22   14:49:39  -  Show all employees
+2020-05-22   14:49:42  -  The session is created with a duration: 30 minutes
+2020-05-22   14:49:42  -  Login successfully
+2020-05-22   14:51:28  -  The session was destroyed
+2020-05-22   14:51:28  -  Exit
+
+2020-05-26   12:06:38  -  The session is created with a duration: 30 minutes
+2020-05-26   12:06:38  -  Login successfully
+2020-05-26   12:06:58  -  Account is created successfully with username: testrelog
+2020-05-26   12:09:12  -  The session is created with a duration: 30 minutes
+2020-05-26   12:09:12  -  Login successfully
+2020-05-26   12:09:43  -  Account is created successfully with username: testrelog2
+2020-05-26   12:11:20  -  Account is created successfully with username: testrelog3
+2020-05-26   12:37:05  -  The session is created with a duration: 30 minutes
+2020-05-26   12:37:05  -  Login successfully
+2020-05-26   12:37:32  -  Account is created successfully with username: test21a
+2020-05-26   12:39:36  -  The session is created with a duration: 30 minutes
+2020-05-26   12:39:36  -  Login successfully
+2020-05-26   12:42:12  -  The session is created with a duration: 30 minutes
+2020-05-26   12:42:12  -  Login successfully
+2020-05-26   12:42:30  -  Account is created successfully with username: test2b
+2020-05-26   12:57:04  -  The session is created with a duration: 30 minutes
+2020-05-26   12:57:04  -  Login successfully
+2020-05-26   12:57:18  -  Account is created successfully with username: Denislav
+2020-05-26   12:58:07  -  The session is created with a duration: 30 minutes
+2020-05-26   12:58:07  -  Login successfully
+2020-05-26   12:58:28  -  Account is created successfully with username: Denislav1
+2020-05-26   12:58:49  -  The session was destroyed
+2020-05-26   12:58:49  -  Exit
+
+2020-05-26   13:05:12  -  The session is created with a duration: 30 minutes
+2020-05-26   13:05:12  -  Login successfully
+2020-05-26   13:05:37  -  Account is created successfully with username: sdsadas
+2020-05-26   13:09:49  -  The session is created with a duration: 30 minutes
+2020-05-26   13:09:49  -  Login successfully
+2020-05-26   13:10:14  -  Account is created successfully with username: svetliosa2121
+2020-05-26   13:15:51  -  The session is created with a duration: 30 minutes
+2020-05-26   13:15:51  -  Login successfully
+2020-05-26   13:16:18  -  Account is deleted successfully with username: svetliosa2121
+2020-05-26   13:23:50  -  The session is created with a duration: 30 minutes
+2020-05-26   13:23:50  -  Login successfully
+2020-05-26   13:23:56  -  Account is found successfully with username: ValiG
+2020-05-26   13:23:59  -  Account is found successfully with username: ValiG
+2020-05-26   13:24:58  -  The session is created with a duration: 30 minutes
+2020-05-26   13:24:58  -  Login successfully
+2020-05-26   13:25:04  -  Account is found successfully with username: ValiG
+2020-05-26   13:25:06  -  Account is found successfully with username: ValiG
+2020-05-26   13:25:06  -  Account is found successfully with username: ValiG
+2020-05-26   13:25:07  -  Account is found successfully with username: ValiG
+2020-05-26   13:25:07  -  Account is found successfully with username: ValiG
+2020-05-26   13:25:08  -  Account is found successfully with username: ValiG
+2020-05-26   13:28:48  -  The session is created with a duration: 30 minutes
+2020-05-26   13:28:48  -  Login successfully
+2020-05-26   13:28:54  -  Account is found successfully with username: ValiG
+2020-05-26   13:29:42  -  The session is created with a duration: 30 minutes
+2020-05-26   13:29:42  -  Login successfully
+2020-05-26   13:29:59  -  Account is edited successfully with username: ValiG
+2020-05-26   13:30:04  -  Account is edited successfully with username: ValiG
+2020-05-26   13:34:56  -  The session is created with a duration: 30 minutes
+2020-05-26   13:34:56  -  Login successfully
+2020-05-26   13:34:57  -  The session is created with a duration: 30 minutes
+2020-05-26   13:34:57  -  Login successfully
+2020-05-26   13:34:58  -  The session is created with a duration: 30 minutes
+2020-05-26   13:34:58  -  Login successfully
+2020-05-26   13:34:59  -  The session is created with a duration: 30 minutes
+2020-05-26   13:34:59  -  Login successfully
+2020-05-26   13:34:59  -  The session is created with a duration: 30 minutes
+2020-05-26   13:34:59  -  Login successfully
+2020-05-26   13:35:00  -  The session is created with a duration: 30 minutes
+2020-05-26   13:35:00  -  Login successfully
+2020-05-26   13:36:57  -  The session was destroyed
+2020-05-26   13:36:57  -  Exit
+
+2020-05-26   13:37:01  -  Login failed
+2020-05-26   13:40:55  -  Login failed
+2020-05-26   13:41:21  -  The session is created with a duration: 30 minutes
+2020-05-26   13:41:21  -  Login for first time
+2020-05-26   13:41:22  -  The session is created with a duration: 30 minutes
+2020-05-26   13:41:22  -  Login for first time
+2020-05-26   13:41:23  -  The session is created with a duration: 30 minutes
+2020-05-26   13:41:23  -  Login for first time
+2020-05-26   13:41:24  -  The session is created with a duration: 30 minutes
+2020-05-26   13:41:24  -  Login for first time
+2020-05-26   13:41:25  -  The session is created with a duration: 30 minutes
+2020-05-26   13:41:25  -  Login for first time
+2020-05-26   13:41:29  -  Change password/username successfully
+2020-05-26   13:41:33  -  Change password/username successfully
+2020-05-26   13:41:36  -  Change password/username successfully
+2020-05-26   13:41:39  -  Change password/username successfully
+2020-05-26   13:41:42  -  Change password/username successfully
+2020-05-26   13:42:56  -  Change password/username successfully
+2020-05-26   13:43:16  -  Change password/username successfully
+2020-05-26   13:49:03  -  The session is created with a duration: 30 minutes
+2020-05-26   13:49:03  -  Login for first time
+2020-05-26   13:49:13  -  Change password/username successfully
+2020-05-26   13:49:21  -  Change password/username successfully
+2020-05-26   13:49:24  -  Recovery code generated
+2020-05-26   13:49:47  -  Recovery code generated
+2020-05-26   13:49:54  -  Recovery code generated
+2020-05-26   13:49:54  -  Recovery code generated
+2020-05-26   13:49:59  -  The session was destroyed
+2020-05-26   13:49:59  -  Exit
+
+2020-05-26   13:50:00  -  Forgot password
+2020-05-26   13:50:02  -  Recovery code is incorrect
+2020-05-26   13:50:08  -  Recovery code is incorrect
+2020-05-26   13:50:22  -  The session is created with a duration: 30 minutes
+2020-05-26   13:50:22  -  Login for first time
+2020-05-26   13:50:28  -  Change password/username successfully
+2020-05-26   13:50:32  -  Recovery code generated
+2020-05-26   13:50:33  -  The session was destroyed
+2020-05-26   13:50:33  -  Exit
+
+2020-05-26   13:50:34  -  Forgot password
+2020-05-26   13:50:36  -  Recovery code is correct
+2020-05-26   13:50:43  -  Change password/username successfully
+2020-05-26   13:50:48  -  Recovery code generated
+2020-05-26   13:51:16  -  Recovery code generated
+2020-05-26   13:51:22  -  The session was destroyed
+2020-05-26   13:51:22  -  Exit
+
+2020-05-26   13:51:24  -  Forgot password
+2020-05-26   13:51:26  -  Recovery code is correct
+2020-05-26   13:55:44  -  Login failed
+2020-05-26   13:55:53  -  The session is created with a duration: 30 minutes
+2020-05-26   13:55:53  -  Login for first time
+2020-05-26   13:55:58  -  Change password/username successfully
+2020-05-26   13:56:02  -  Recovery code generated
+2020-05-26   13:56:03  -  The session was destroyed
+2020-05-26   13:56:03  -  Exit
+
+2020-05-26   13:56:10  -  The session is created with a duration: 30 minutes
+2020-05-26   13:56:10  -  Login successfully
+2020-05-26   13:56:11  -  The session was destroyed
+2020-05-26   13:56:11  -  Exit
+
+2020-05-26   13:56:13  -  Forgot password
+2020-05-26   13:56:15  -  Recovery code is correct
+2020-05-26   13:56:18  -  Change password/username successfully
+2020-05-26   13:56:31  -  Recovery code generated
+2020-05-26   13:56:50  -  Account is created successfully with username: sasasasasasasa
+2020-05-26   14:00:27  -  The session is created with a duration: 30 minutes
+2020-05-26   14:00:27  -  Login successfully
+2020-05-26   14:00:32  -  Account is edited successfully with username: sasasasasasasa
+2020-05-26   14:00:49  -  Account is edited successfully with username: sasasasasasasag
+2020-05-26   14:01:06  -  Account is found successfully with username: sasasasasasasag
+2020-05-26   14:01:15  -  Account is deleted successfully with username: sasasasasasasag
+2020-05-26   14:06:20  -  The session has expired
+2020-05-26   14:06:24  -  The session is created with a duration: 30 minutes
+2020-05-26   14:06:24  -  Login successfully
+2020-05-26   14:06:36  -  Account is created successfully with username: dasdasdas
+2020-05-26   14:32:22  -  The session is created with a duration: 30 minutes
+2020-05-26   14:32:22  -  Login successfully
+2020-05-26   14:32:33  -  Account is created successfully with username: dwfbgdsafsdd
+2020-05-26   14:36:24  -  Account is created successfully with username: testrelog32
+2020-05-26   14:39:32  -  The session is created with a duration: 30 minutes
+2020-05-26   14:39:32  -  Login for first time
+2020-05-26   14:39:34  -  The session is created with a duration: 30 minutes
+2020-05-26   14:39:34  -  Login for first time
+2020-05-26   14:39:34  -  The session is created with a duration: 30 minutes
+2020-05-26   14:39:34  -  Login for first time
+2020-05-26   14:39:40  -  Change password/username successfully
+2020-05-26   14:40:00  -  Login failed
+2020-05-26   14:40:04  -  Login failed
+2020-05-26   14:40:39  -  The session is created with a duration: 30 minutes
+2020-05-26   14:40:39  -  Login for first time
+2020-05-26   14:40:46  -  Change password/username successfully
+2020-05-26   14:42:11  -  Login failed
+2020-05-26   14:42:15  -  Login failed
+2020-05-26   14:42:29  -  The session is created with a duration: 30 minutes
+2020-05-26   14:42:29  -  Login for first time
+2020-05-26   14:42:30  -  The session is created with a duration: 30 minutes
+2020-05-26   14:42:30  -  Login for first time
+2020-05-26   14:42:31  -  The session is created with a duration: 30 minutes
+2020-05-26   14:42:31  -  Login for first time
+2020-05-26   14:42:32  -  The session is created with a duration: 30 minutes
+2020-05-26   14:42:32  -  Login for first time
+2020-05-26   14:42:32  -  The session is created with a duration: 30 minutes
+2020-05-26   14:42:32  -  Login for first time
+2020-05-26   14:42:32  -  The session is created with a duration: 30 minutes
+2020-05-26   14:42:32  -  Login for first time
+2020-05-26   14:42:32  -  The session is created with a duration: 30 minutes
+2020-05-26   14:42:32  -  Login for first time
+2020-05-26   14:42:37  -  Change password/username successfully
+2020-05-26   14:43:17  -  The session is created with a duration: 30 minutes
+2020-05-26   14:43:17  -  Login for first time
+2020-05-26   14:43:20  -  The session is created with a duration: 30 minutes
+2020-05-26   14:43:20  -  Login for first time
+2020-05-26   14:43:21  -  The session is created with a duration: 30 minutes
+2020-05-26   14:43:21  -  Login for first time
+2020-05-26   14:43:25  -  Change password/username successfully
+2020-05-26   14:43:32  -  Recovery code generated
+2020-05-26   14:45:24  -  Account is created successfully with username: fwedfasfad
+2020-05-26   14:45:36  -  Account is edited successfully with username: ValiG
+2020-05-26   14:45:42  -  Account is found successfully with username: ValiG
+2020-05-26   14:45:43  -  Account is found successfully with username: ValiG
+2020-05-26   14:45:44  -  Account is found successfully with username: ValiG
+2020-05-26   14:45:44  -  Account is found successfully with username: ValiG
+2020-05-26   14:45:47  -  Account is deleted successfully with username: fwedfasfad
+2020-05-26   14:47:52  -  The session was destroyed
+2020-05-26   14:47:52  -  Exit
+
+2020-05-26   14:48:02  -  The session is created with a duration: 30 minutes
+2020-05-26   14:48:02  -  Login successfully
+2020-05-26   14:48:05  -  The session was destroyed
+2020-05-26   14:48:05  -  Exit
+
+2020-05-26   14:48:07  -  The session is created with a duration: 30 minutes
+2020-05-26   14:48:07  -  Login successfully
+2020-05-26   15:06:33  -  Account is created successfully with username: sdsadassss
+2020-05-27   11:59:41  -  Login failed
+2020-05-27   12:00:01  -  The session is created with a duration: 30 minutes
+2020-05-27   12:00:01  -  Login successfully
+2020-05-27   12:02:16  -  The session is created with a duration: 30 minutes
+2020-05-27   12:02:16  -  Login successfully
+2020-05-27   12:02:47  -  Account is created successfully with username: adminsas
+2020-05-27   12:06:29  -  Login failed
+2020-05-27   12:06:39  -  The session is created with a duration: 30 minutes
+2020-05-27   12:06:39  -  Login successfully
+2020-05-27   12:06:57  -  Account is created successfully with username: svetliosazxc
+2020-05-27   12:10:57  -  The session is created with a duration: 30 minutes
+2020-05-27   12:10:57  -  Login successfully
+2020-05-27   12:11:15  -  Account is created successfully with username: svetliosa
+2020-05-27   12:12:29  -  Account is created successfully with username: ValiG21
+2020-05-27   12:15:59  -  Login failed
+2020-05-27   12:16:10  -  The session is created with a duration: 30 minutes
+2020-05-27   12:16:10  -  Login successfully
+2020-05-27   12:16:31  -  Account is created successfully with username: adminsadasdas
+2020-05-27   12:16:41  -  Account is edited successfully with username: ValiG
+2020-05-27   12:17:10  -  Account is edited successfully with username: ValiG
+2020-05-27   12:17:16  -  Account is edited successfully with username: ValiG
+2020-05-27   12:17:36  -  Account is created successfully with username: testasasasa
+2020-05-27   12:21:30  -  The session is created with a duration: 30 minutes
+2020-05-27   12:21:30  -  Login successfully
+2020-05-27   12:21:36  -  Account is edited successfully with username: ValiG
+2020-05-27   12:21:54  -  Account is deleted successfully with username: adminsadasdas
+2020-05-27   12:22:51  -  Login failed
+2020-05-27   12:23:03  -  The session is created with a duration: 30 minutes
+2020-05-27   12:23:03  -  Login successfully
+2020-05-27   12:23:12  -  Account is deleted successfully with username: testasasasa
+2020-05-27   12:23:53  -  Account is deleted successfully with username: svetliosazxc
+2020-05-27   12:25:00  -  The session is created with a duration: 30 minutes
+2020-05-27   12:25:00  -  Login successfully
+2020-05-27   12:25:09  -  Account is deleted successfully with username: adminsas
+2020-05-27   12:25:29  -  Account is deleted successfully with username: sdsadassss
+2020-05-27   12:27:22  -  The session is created with a duration: 30 minutes
+2020-05-27   12:27:22  -  Login successfully
+2020-05-27   12:27:39  -  Account is created successfully with username: testsasasasasa
+2020-05-27   12:27:45  -  Account is edited successfully with username: testsasasasasa
+2020-05-27   12:29:12  -  Account is deleted successfully with username: testsasasasasa
+2020-05-27   12:33:36  -  The session is created with a duration: 30 minutes
+2020-05-27   12:33:36  -  Login successfully
+2020-05-27   12:33:42  -  Account is found successfully with username: ValiG
+2020-05-27   12:33:44  -  Account is found successfully with username: ValiG
+2020-05-27   12:33:44  -  Account is found successfully with username: ValiG
+2020-05-27   12:33:45  -  Account is found successfully with username: ValiG
+2020-05-27   12:33:45  -  Account is found successfully with username: ValiG
+2020-05-27   12:36:47  -  The session is created with a duration: 30 minutes
+2020-05-27   12:36:47  -  Login successfully
+2020-05-27   12:37:09  -  Account is found successfully with username: ValiG
+2020-05-27   12:38:01  -  The session is created with a duration: 30 minutes
+2020-05-27   12:38:01  -  Login successfully
+2020-05-27   12:38:06  -  Account is found successfully with username: ValiG
+2020-05-27   12:39:04  -  The session is created with a duration: 30 minutes
+2020-05-27   12:39:04  -  Login successfully
+2020-05-27   12:40:12  -  The session is created with a duration: 30 minutes
+2020-05-27   12:40:12  -  Login successfully
+2020-05-27   12:40:50  -  The session is created with a duration: 30 minutes
+2020-05-27   12:40:50  -  Login successfully
+2020-05-27   12:42:32  -  Show all employees
+2020-05-27   12:42:39  -  The session is created with a duration: 30 minutes
+2020-05-27   12:42:39  -  Login successfully
+2020-05-27   12:44:34  -  Account is found successfully with username: ValiG
+2020-05-27   12:44:58  -  Account is deleted successfully with username: testrelog32
+2020-05-27   12:45:05  -  Account is edited successfully with username: ValiG
+2020-05-27   12:45:32  -  Account is created successfully with username: admin121wa
+2020-05-27   12:45:39  -  The session was destroyed
+2020-05-27   12:45:39  -  Exit
+
+2020-05-27   12:46:53  -  Login failed
+2020-05-27   12:46:56  -  Login failed
+2020-05-27   12:49:12  -  The session is created with a duration: 30 minutes
+2020-05-27   12:49:12  -  Login successfully
+2020-05-27   12:49:42  -  Account is created successfully with username: testplswork
+2020-05-27   12:50:53  -  Login failed
+2020-05-27   12:51:04  -  The session is created with a duration: 30 minutes
+2020-05-27   12:51:04  -  Login successfully
+2020-05-27   12:54:46  -  Login failed
+2020-05-27   12:54:55  -  Login failed
+2020-05-27   12:55:06  -  The session is created with a duration: 30 minutes
+2020-05-27   12:55:06  -  Login successfully
+2020-05-27   12:55:47  -  Login failed
+2020-05-27   12:55:50  -  Login failed
+2020-05-27   12:59:37  -  The session is created with a duration: 30 minutes
+2020-05-27   12:59:37  -  Login for first time
+2020-05-27   13:00:45  -  The session is created with a duration: 30 minutes
+2020-05-27   13:00:45  -  Login for first time
+2020-05-27   13:01:00  -  Login failed
+2020-05-27   13:02:13  -  The session is created with a duration: 30 minutes
+2020-05-27   13:02:13  -  Login for first time
+2020-05-27   13:03:53  -  The session is created with a duration: 30 minutes
+2020-05-27   13:03:53  -  Login for first time
+2020-05-27   13:04:07  -  The session is created with a duration: 30 minutes
+2020-05-27   13:04:07  -  Login for first time
+2020-05-27   13:04:08  -  The session is created with a duration: 30 minutes
+2020-05-27   13:04:08  -  Login for first time
+2020-05-27   13:04:14  -  Change password/username successfully
+2020-05-27   13:20:59  -  The session is created with a duration: 30 minutes
+2020-05-27   13:20:59  -  Login for first time
+2020-05-27   13:21:04  -  Change password/username successfully
+2020-05-27   13:22:27  -  The session is created with a duration: 30 minutes
+2020-05-27   13:22:27  -  Login for first time
+2020-05-27   13:22:32  -  Change password/username successfully
+2020-05-27   13:22:37  -  Change password/username successfully
+2020-05-27   13:22:46  -  Forgot password
+2020-05-27   13:22:47  -  Recovery code is incorrect
+2020-05-27   13:27:28  -  The session is created with a duration: 30 minutes
+2020-05-27   13:27:28  -  Login successfully
+2020-05-27   13:36:24  -  The session is created with a duration: 30 minutes
+2020-05-27   13:36:24  -  Login for first time
+2020-05-27   13:36:29  -  Change password/username successfully
+2020-05-27   13:36:31  -  Change password/username successfully
+2020-05-27   13:36:32  -  Change password/username successfully
+2020-05-27   13:36:32  -  Change password/username successfully
+2020-05-27   13:36:33  -  Change password/username successfully
+2020-05-27   13:36:33  -  Change password/username successfully
+2020-05-27   13:36:33  -  Change password/username successfully
+2020-05-27   13:36:33  -  Change password/username successfully
+2020-05-27   13:36:33  -  Change password/username successfully
+2020-05-27   13:36:34  -  Change password/username successfully
+2020-05-27   13:36:35  -  Change password/username successfully
+2020-05-27   13:36:35  -  Change password/username successfully
+2020-05-27   13:36:35  -  Change password/username successfully
+2020-05-27   13:36:35  -  Change password/username successfully
+2020-05-27   13:36:35  -  Change password/username successfully
+2020-05-27   13:36:36  -  Change password/username successfully
+2020-05-27   13:36:36  -  Change password/username successfully
+2020-05-27   13:36:37  -  Change password/username successfully
+2020-05-27   13:36:37  -  Change password/username successfully
+2020-05-27   13:36:37  -  Change password/username successfully
+2020-05-27   13:37:29  -  Login failed
+2020-05-27   13:37:41  -  The session is created with a duration: 30 minutes
+2020-05-27   13:37:41  -  Login for first time
+2020-05-27   13:37:45  -  Change password/username successfully
+2020-05-27   13:43:25  -  The session is created with a duration: 30 minutes
+2020-05-27   13:43:25  -  Login for first time
+2020-05-27   13:43:30  -  Change password/username successfully
+2020-05-27   13:44:02  -  Forgot password
+2020-05-27   13:44:05  -  Recovery code is incorrect
+2020-05-27   13:44:24  -  Recovery code generated
+2020-05-27   13:44:26  -  The session was destroyed
+2020-05-27   13:44:26  -  Exit
+
+2020-05-27   13:44:27  -  Forgot password
+2020-05-27   13:44:31  -  Recovery code is incorrect
+2020-05-27   13:59:16  -  The session is created with a duration: 30 minutes
+2020-05-27   13:59:16  -  Login for first time
+2020-05-27   13:59:19  -  Change password/username successfully
+2020-05-27   14:02:09  -  The session is created with a duration: 30 minutes
+2020-05-27   14:02:09  -  Login for first time
+2020-05-27   14:02:13  -  Change password/username successfully
+2020-05-27   14:02:44  -  The session is created with a duration: 30 minutes
+2020-05-27   14:02:44  -  Login successfully
+2020-05-27   14:02:59  -  The session was destroyed
+2020-05-27   14:02:59  -  Exit
+
+2020-05-27   14:03:04  -  The session is created with a duration: 30 minutes
+2020-05-27   14:03:04  -  Login for first time
+2020-05-27   14:03:08  -  Change password/username successfully
+2020-05-27   14:03:21  -  Change password/username successfully
+2020-05-27   14:04:03  -  The session is created with a duration: 30 minutes
+2020-05-27   14:04:03  -  Login for first time
+2020-05-27   14:04:07  -  Change password/username successfully
+2020-05-27   14:04:46  -  The session is created with a duration: 30 minutes
+2020-05-27   14:04:46  -  Login for first time
+2020-05-27   14:04:50  -  Change password/username successfully
+2020-05-27   14:05:31  -  The session is created with a duration: 30 minutes
+2020-05-27   14:05:31  -  Login for first time
+2020-05-27   14:05:34  -  Change password/username successfully
+2020-05-27   14:05:37  -  Recovery code generated
+2020-05-27   14:05:45  -  Account is found successfully with username: ValiG
+2020-05-27   14:05:49  -  Account is found successfully with username: ValiG
+2020-05-27   14:06:37  -  The session is created with a duration: 30 minutes
+2020-05-27   14:06:37  -  Login successfully
+2020-05-27   14:06:40  -  Account is found successfully with username: ValiG
+2020-05-27   14:08:47  -  Account is deleted successfully with username: admin121wa
+2020-05-27   14:08:56  -  Account is deleted successfully with username: ValiG21
+2020-05-27   14:09:30  -  Account is created successfully with username: ValiG21
+2020-05-27   14:09:41  -  Account is edited successfully with username: ValiG21
+2020-05-27   14:20:51  -  The session was destroyed
+2020-05-27   14:20:51  -  Exit
+
+2020-05-27   14:20:54  -  The session is created with a duration: 30 minutes
+2020-05-27   14:20:54  -  Login successfully
+2020-05-27   14:35:42  -  The session is created with a duration: 30 minutes
+2020-05-27   14:35:42  -  Login for first time
+2020-05-27   14:35:53  -  Change password/username successfully
+2020-05-27   14:39:21  -  The session is created with a duration: 30 minutes
+2020-05-27   14:39:21  -  Login successfully
+2020-05-27   14:39:38  -  The session is created with a duration: 30 minutes
+2020-05-27   14:39:38  -  Login for first time
+2020-05-27   14:39:47  -  Change password/username successfully
+2020-05-27   14:53:15  -  The session is created with a duration: 30 minutes
+2020-05-27   14:53:15  -  Login for first time
+2020-05-27   14:53:19  -  Change password/username successfully
+2020-05-27   14:53:28  -  Change password/username successfully
+2020-05-27   14:56:22  -  The session is created with a duration: 30 minutes
+2020-05-27   14:56:22  -  Login for first time
+2020-05-27   14:56:27  -  Change password/username successfully
+2020-05-27   14:57:54  -  The session is created with a duration: 30 minutes
+2020-05-27   14:57:54  -  Login for first time
+2020-05-27   14:57:58  -  Change password/username successfully
+2020-05-27   15:00:34  -  The session is created with a duration: 30 minutes
+2020-05-27   15:00:34  -  Login for first time
+2020-05-27   15:00:38  -  Change password/username successfully
+2020-05-27   15:01:58  -  The session is created with a duration: 30 minutes
+2020-05-27   15:01:58  -  Login for first time
+2020-05-27   15:02:07  -  Change password/username successfully
+2020-05-27   15:02:31  -  The session is created with a duration: 30 minutes
+2020-05-27   15:02:31  -  Login for first time
+2020-05-27   15:02:37  -  Change password/username successfully
+2020-05-27   15:04:40  -  Login failed
+2020-05-27   15:04:48  -  The session is created with a duration: 30 minutes
+2020-05-27   15:04:48  -  Login for first time
+2020-05-27   15:04:53  -  Change password/username successfully
+2020-05-27   15:09:52  -  The session is created with a duration: 30 minutes
+2020-05-27   15:09:52  -  Login for first time
+2020-05-27   15:09:57  -  Change password/username successfully
+2020-05-27   15:10:03  -  Change password/username successfully
+2020-05-27   15:10:08  -  Change password/username successfully
+2020-05-27   15:10:11  -  Recovery code generated
+2020-05-27   15:10:13  -  The session was destroyed
+2020-05-27   15:10:13  -  Exit
+
+2020-05-27   15:10:15  -  Forgot password
+2020-05-27   15:10:17  -  Recovery code is incorrect
+2020-05-27   15:23:34  -  Login failed
+2020-05-27   15:23:42  -  The session is created with a duration: 30 minutes
+2020-05-27   15:23:42  -  Login for first time
+2020-05-27   15:23:47  -  Change password/username successfully
+2020-05-27   15:23:49  -  Recovery code generated
+2020-05-27   15:24:12  -  Account is created successfully with username: svetliosa21
+2020-05-27   15:35:55  -  Account is found successfully with username: ValiG
+2020-05-27   15:36:00  -  Account is found successfully with username: ValiG
+2020-05-27   15:36:57  -  The session is created with a duration: 30 minutes
+2020-05-27   15:36:57  -  Login successfully
+2020-05-27   15:37:02  -  Account is found successfully with username: ValiG
+2020-05-27   15:37:18  -  Account is found successfully with username: ValiG
+2020-05-27   15:53:37  -  The session is created with a duration: 30 minutes
+2020-05-27   15:53:37  -  Login successfully
+2020-05-27   15:53:51  -  Account is found successfully with username: ValiG
+2020-05-27   15:53:53  -  Account is found successfully with username: ValiG
+2020-05-27   15:53:54  -  Account is found successfully with username: ValiG
+2020-05-27   15:53:55  -  Account is found successfully with username: ValiG
+2020-05-27   15:53:55  -  Account is found successfully with username: ValiG
+2020-05-27   15:53:56  -  Account is found successfully with username: ValiG
+2020-05-27   15:53:57  -  Account is found successfully with username: ValiG
+2020-05-27   15:55:33  -  The session is created with a duration: 30 minutes
+2020-05-27   15:55:33  -  Login successfully
+2020-05-27   15:56:23  -  The session is created with a duration: 30 minutes
+2020-05-27   15:56:23  -  Login successfully
+2020-05-27   15:57:02  -  Account is deleted successfully with username: testplswork
+2020-05-27   15:57:56  -  The session is created with a duration: 30 minutes
+2020-05-27   15:57:56  -  Login successfully
+2020-05-27   15:58:14  -  Account is deleted successfully with username: svetliosa21
+2020-05-27   16:06:36  -  Account is created successfully with username: svetliosafgfgs
+2020-05-27   16:11:48  -  The session is created with a duration: 30 minutes
+2020-05-27   16:11:48  -  Login for first time
+2020-05-27   16:11:51  -  Change password/username successfully
+2020-05-27   16:11:58  -  Change password/username successfully
+2020-05-27   16:12:52  -  Login failed
+2020-05-27   16:12:59  -  The session is created with a duration: 30 minutes
+2020-05-27   16:12:59  -  Login for first time
+2020-05-27   16:13:03  -  Change password/username successfully
+2020-05-27   16:13:43  -  The session is created with a duration: 30 minutes
+2020-05-27   16:13:43  -  Login for first time
+2020-05-27   16:13:47  -  Change password/username successfully
+2020-05-27   16:13:52  -  Change password/username successfully
+2020-05-27   16:13:56  -  Change password/username successfully
+2020-05-27   16:14:24  -  Recovery code generated
+2020-05-28   13:06:03  -  The session is created with a duration: 30 minutes
+2020-05-28   13:06:03  -  Login for first time
+2020-05-28   13:06:07  -  Change password/username successfully
+2020-05-28   13:07:00  -  The session is created with a duration: 30 minutes
+2020-05-28   13:07:00  -  Login for first time
+2020-05-28   13:07:04  -  Change password/username successfully
+2020-05-28   13:10:10  -  The session is created with a duration: 30 minutes
+2020-05-28   13:10:10  -  Login for first time
+2020-05-28   13:10:14  -  Change password/username successfully
+2020-05-28   13:12:40  -  The session is created with a duration: 30 minutes
+2020-05-28   13:12:40  -  Login for first time
+2020-05-28   13:12:45  -  Change password/username successfully
+2020-05-28   13:14:19  -  The session is created with a duration: 30 minutes
+2020-05-28   13:14:19  -  Login for first time
+2020-05-28   13:14:24  -  Change password/username successfully
+2020-05-28   13:14:28  -  Change password/username successfully
+2020-05-28   13:14:31  -  Change password/username successfully
+2020-05-28   13:15:55  -  Login failed
+2020-05-28   13:16:04  -  The session is created with a duration: 30 minutes
+2020-05-28   13:16:04  -  Login for first time
+2020-05-28   13:16:08  -  Change password/username successfully
+2020-05-28   13:17:16  -  Login failed
+2020-05-28   13:17:25  -  The session is created with a duration: 30 minutes
+2020-05-28   13:17:25  -  Login for first time
+2020-05-28   13:17:30  -  Change password/username successfully
+2020-05-28   13:17:33  -  Recovery code generated
+2020-05-28   13:17:39  -  Change password/username successfully
+2020-05-28   13:18:59  -  Login failed
+2020-05-28   13:19:11  -  The session is created with a duration: 30 minutes
+2020-05-28   13:19:11  -  Login for first time
+2020-05-28   13:19:15  -  Change password/username successfully
+2020-05-28   13:20:12  -  The session is created with a duration: 30 minutes
+2020-05-28   13:20:12  -  Login for first time
+2020-05-28   13:20:17  -  Change password/username successfully
+2020-05-28   13:21:09  -  The session is created with a duration: 30 minutes
+2020-05-28   13:21:09  -  Login for first time
+2020-05-28   13:21:13  -  Change password/username successfully
+2020-05-28   13:23:14  -  The session is created with a duration: 30 minutes
+2020-05-28   13:23:14  -  Login for first time
+2020-05-28   13:23:18  -  Change password/username successfully
+2020-05-28   13:25:03  -  Login failed
+2020-05-28   13:25:12  -  The session is created with a duration: 30 minutes
+2020-05-28   13:25:12  -  Login for first time
+2020-05-28   13:25:16  -  Change password/username successfully
+2020-05-28   13:25:20  -  Recovery code generated
+2020-09-28   18:50:16  -  Forgot password
+2020-10-01   00:04:43  -  Forgot password
+2020-10-01   00:11:26  -  Login failed
+2020-10-01   00:11:30  -  Login failed
+2020-10-01   00:12:06  -  Login failed
+2020-10-01   00:12:22  -  The session is created with a duration: 30 minutes
+2020-10-01   00:12:22  -  Login successfully
+2020-10-01   00:12:45  -  Account is created successfully with username: test1
+2020-10-01   00:12:53  -  Account is found successfully with username: test1
+2020-10-01   00:14:40  -  Account is found successfully with username: test1
+2020-10-01   00:14:44  -  Account is edited successfully with username: test1
+2020-10-01   00:14:50  -  Account is edited successfully with username: test1
+2020-10-01   00:14:59  -  Account is found successfully with username: test1
+2020-10-01   00:15:07  -  Account is edited successfully with username: test1
+2020-10-01   00:15:26  -  The session was destroyed
+2020-10-01   00:15:26  -  Exit
+
+2020-10-01   00:15:35  -  The session is created with a duration: 30 minutes
+2020-10-01   00:15:35  -  Login successfully
+2020-10-06   15:12:02  -  Login failed
+2020-10-06   15:12:18  -  The session is created with a duration: 30 minutes
+2020-10-06   15:12:18  -  Login successfully
+2020-10-06   15:14:24  -  The session was destroyed
+2020-10-06   15:14:24  -  Exit
+
+2020-10-13   23:13:22  -  The session is created with a duration: 30 minutes
+2020-10-13   23:13:22  -  Login successfully
+2020-10-13   23:14:36  -  The session was destroyed
+2020-10-13   23:14:36  -  Exit
+
+2020-10-13   23:14:43  -  The session is created with a duration: 30 minutes
+2020-10-13   23:14:43  -  Login for first time
+2020-10-13   23:14:50  -  Change password/username successfully
+2020-10-13   23:14:53  -  Recovery code generated
+2020-10-13   23:14:57  -  The session was destroyed
+2020-10-13   23:14:57  -  Exit
+
+2020-10-13   23:15:06  -  The session is created with a duration: 30 minutes
+2020-10-13   23:15:06  -  Login successfully
+2020-10-13   23:15:39  -  The session was destroyed
+2020-10-13   23:15:39  -  Exit
+
+2020-10-13   23:15:45  -  The session is created with a duration: 30 minutes
+2020-10-13   23:15:45  -  Login for first time
+2020-10-13   23:15:53  -  Change password/username successfully
+2020-10-13   23:15:55  -  Recovery code generated
+2020-10-13   23:15:59  -  The session was destroyed
+2020-10-13   23:15:59  -  Exit
+
+2020-10-13   23:22:23  -  The session is created with a duration: 30 minutes
+2020-10-13   23:22:23  -  Login for first time
+2020-10-13   23:22:29  -  Change password/username successfully
+2020-10-13   23:22:37  -  Recovery code generated
+2020-10-13   23:23:57  -  Account is created successfully with username: ivanivan21
+2020-10-13   23:24:40  -  Account is edited successfully with username: ivanivan21
+2020-10-13   23:26:36  -  The session was destroyed
+2020-10-13   23:26:36  -  Exit
+
+2020-10-13   23:49:56  -  The session was destroyed
+2020-10-13   23:49:56  -  Exit
+
+2020-10-13   23:50:34  -  The session was destroyed
+2020-10-13   23:50:34  -  Exit
+
+2020-10-13   23:50:35  -  The session was destroyed
+2020-10-13   23:50:35  -  Exit
+
+2020-10-13   23:50:36  -  The session was destroyed
+2020-10-13   23:50:36  -  Exit
+
+2020-10-13   23:50:36  -  The session was destroyed
+2020-10-13   23:50:36  -  Exit
+
+2020-10-13   23:50:36  -  The session was destroyed
+2020-10-13   23:50:36  -  Exit
+
+2020-10-13   23:50:49  -  The session was destroyed
+2020-10-13   23:50:49  -  Exit
+
+2020-10-13   23:51:02  -  The session was destroyed
+2020-10-13   23:51:02  -  Exit
+
+2021-03-09   10:02:25  -  The session is created with a duration: 30 minutes
+2021-03-09   10:02:25  -  Login for first time
+2021-03-13   13:52:36  -  The session is created with a duration: 30 minutes
+2021-03-13   13:52:36  -  Login for first time
+2021-03-13   13:52:42  -  Change password/username successfully
+2021-03-13   13:52:46  -  Recovery code generated
+2021-03-13   13:53:22  -  Account is created successfully with username: dencho
+2021-03-13   14:04:24  -  Login failed
+2021-03-13   14:05:23  -  The session has expired
+2021-03-13   14:05:35  -  The session is created with a duration: 30 minutes
+2021-03-13   14:05:35  -  Login successfully
+2021-03-13   14:05:41  -  Account is found successfully with username: dencho
+2021-03-13   14:06:14  -  Login failed
+2021-03-13   14:07:29  -  Login failed
+2021-03-13   14:08:25  -  Login failed
+2021-03-13   14:10:19  -  Login failed
+2021-03-13   14:14:37  -  Login failed
+2021-03-13   14:16:08  -  Login failed
+2021-03-13   14:18:15  -  Login failed
+2021-03-13   14:19:00  -  Login failed
+2021-03-13   14:20:12  -  Login failed
+2021-03-13   14:20:33  -  The session is created with a duration: 30 minutes
+2021-03-13   14:20:33  -  Login successfully
+2021-03-13   14:20:39  -  Account is found successfully with username: dencho
+2021-03-13   14:22:00  -  The session is created with a duration: 30 minutes
+2021-03-13   14:22:18  -  The session is created with a duration: 30 minutes
+2021-03-13   14:31:23  -  The session is created with a duration: 30 minutes
+2021-03-13   14:31:23  -  Login successfully
+2021-03-13   14:31:27  -  Login failed
+2021-03-13   14:39:04  -  Login failed
+2021-03-13   14:40:25  -  Login failed
+2021-03-13   14:40:57  -  Login failed
+2021-03-13   14:41:29  -  Login failed
+2021-03-13   14:42:30  -  Login failed
+2021-03-13   14:42:40  -  Login failed
+2021-03-13   14:43:47  -  Login failed
+2021-03-13   14:45:06  -  Login failed
+2021-03-13   14:45:16  -  Login failed
+2021-03-16   14:32:52  -  The session is created with a duration: 30 minutes
+2021-03-16   14:32:52  -  Login successfully
+2021-03-16   14:33:28  -  Account is created successfully with username: vankata
+2021-03-16   14:43:57  -  The session is created with a duration: 30 minutes
+2021-03-16   14:43:57  -  Login successfully
+2021-03-16   14:44:30  -  Account is created successfully with username: Vankata123
+2021-03-16   14:45:04  -  Account is found successfully with username: Vankata123
+2021-03-16   14:45:39  -  Account is found successfully with username: Vankata123
+2021-03-16   14:51:40  -  The session has expired
+2021-03-16   14:51:46  -  The session is created with a duration: 30 minutes
+2021-03-16   14:51:46  -  Login successfully
+2021-03-16   14:52:56  -  The session is created with a duration: 30 minutes
+2021-03-16   14:52:56  -  Login successfully
+2021-03-16   14:53:01  -  Account is found successfully with username: dencho
+2021-03-16   14:56:58  -  Login failed
+2021-03-16   14:57:06  -  The session is created with a duration: 30 minutes
+2021-03-16   14:57:06  -  Login successfully
+2021-03-16   15:11:02  -  The session has expired
+2021-03-16   15:37:51  -  The session is created with a duration: 30 minutes
+2021-03-16   15:37:51  -  Login successfully
+2021-03-16   17:57:02  -  The session is created with a duration: 30 minutes
+2021-03-16   17:57:02  -  Login successfully
+2021-03-16   18:01:32  -  The session is created with a duration: 30 minutes
+2021-03-16   18:01:32  -  Login successfully
+2021-03-16   18:11:55  -  The session is created with a duration: 30 minutes
+2021-03-16   18:11:55  -  Login successfully
+2021-03-16   18:15:58  -  The session is created with a duration: 30 minutes
+2021-03-16   18:15:58  -  Login successfully
+2021-03-16   18:17:19  -  The session is created with a duration: 30 minutes
+2021-03-16   18:17:19  -  Login successfully
+2021-03-16   18:17:33  -  The session is created with a duration: 30 minutes
+2021-03-16   18:17:33  -  Login successfully

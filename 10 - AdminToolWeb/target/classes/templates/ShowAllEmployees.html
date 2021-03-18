@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Svetliosa</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="shortcut icon" type="image/x-icon" href="images/icon.png">
+    <script src="js/javascript.js"></script>
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+</head>
+
+<body style="background-color:#f4f4f4;">
+
+<span th:if="${usernameNotFound != null}" class="error"><script> alert("Username not found");</script></span>
+
+<div class="Container">
+    <div class="ContainerMain">
+        <div class="ContainerLeftMenu">
+            <div style="padding-bottom:60px"></div>
+            <div class="btn-group">
+                <form th:action="Menu">
+                    <button class="buttonLeftMenu" type="submit" name="button" value="Create account">Create account</button>
+                    <button class="buttonLeftMenu" type="submit" name="button" value="Edit account">Edit account</button>
+                    <button class="buttonLeftMenu" type="submit" name="button" value="Search account">Search account</button>
+                    <button class="buttonLeftMenu" type="submit" name="button" value="Delete account">Delete account</button>
+                    <button class="buttonActive" type="submit" name="button" value="Show all">All employees</button>
+                    <button class="buttonLeftMenu" type="submit" name="button" value="Exit">Exit</button>
+                </form>
+            </div>
+        </div>
+        <div class="ContainerCopyRight">
+            <span style="font-family:Times"><h5>COPYRIGHT © SVETLIOSA 2020</h5></span>
+        </div>
+        <div class="ContainerLogo">
+            <img src="images/logo.png" width=90% height=80%>
+        </div>
+        <div class="ContainerTitle">
+            <span style="font-family:Times"><h2>AdminToolWeb</h2></span>
+        </div>
+
+        <div class="ContainerCreateTitle">
+            <center><span style="font-family:Times; color:#293541; font-size:45px">All employees</span></center>
+        </div>
+
+        <div class="ContainerShowAllTable">
+            <div id="table-wrapper">
+                <div id="table-scroll">
+                <table>
+                    <thead>
+                        <tr style="background-color:red">
+                            <th><span class="text">ID</span></th>
+                            <th><span class="text">First name</span></th>
+                            <th><span class="text">Surname</span></th>
+                            <th><span class="text">Family name</span></th>
+                            <th><span class="text">Address</span></th>
+                            <th><span class="text">Username</span></th>
+                            <th><span class="text">Password</span></th>
+                            <th><span class="text">Repeat password</span></th>
+                            <th><span class="text">Email</span></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    <tr th:each="Employee : ${allEmployees}">
+                        <td><p th:text="${Employee.id}"><p></td>
+                        <td><p th:text="${Employee.firstName}"><p></td>
+                        <td><p th:text="${Employee.surname}"><p></td>
+                        <td><p th:text="${Employee.familyName}"><p></td>
+                        <td><p th:text="${Employee.address}"><p></td>
+                        <td><p th:text="${Employee.username}"><p></td>
+                        <td><p th:text="${Employee.password}"><p></td>
+                        <td><p th:text="${Employee.repeatPassword}"><p></td>
+                        <td><p th:text="${Employee.email}"><p></td>
+                    </tr>
+                    </tbody>
+                </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

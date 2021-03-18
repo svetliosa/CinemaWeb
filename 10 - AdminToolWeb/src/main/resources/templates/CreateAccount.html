@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Svetliosa</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <link rel="shortcut icon" type="image/x-icon" href="images/icon.png">
+	<script src="js/javascript.js"></script>
+</head>
+
+<body style="background-color:#f4f4f4;" >
+<span th:if="${createSuccessfully != null}" class="error"><script> alert("Successfully created");</script></span>
+<span th:if="${firstNameNull != null}" class="error"><script> alert("Incorrect first name");</script></span>
+<span th:if="${secondNameNull != null}" class="error"><script> alert("Incorrect surname");</script></span>
+<span th:if="${lastNameNull != null}" class="error"><script> alert("Incorrect family name");</script></span>
+<span th:if="${addressNull != null}" class="error"><script> alert("Incorrect address");</script></span>
+<span th:if="${usernameNull != null}" class="error"><script> alert("Incorrect username");</script></span>
+<span th:if="${usernameExist != null}" class="error"><script> alert("Username already exist");</script></span>
+<span th:if="${passwordNull != null}" class="error"><script> alert("Incorrect password");</script></span>
+<span th:if="${password2Null != null}" class="error"><script> alert("Incorrect repeat password");</script></span>
+<span th:if="${passwordsLength != null}" class="error"><script> alert("Password must be at least 8 characters long");</script></span>
+<span th:if="${passwordsNotSame != null}" class="error"><script> alert("Password must be the same");</script></span>
+<span th:if="${emailNull != null}" class="error"><script> alert("Incorrect email");</script></span>
+
+
+
+
+<div class="Container">
+	<div class="ContainerMain">
+		<div class="ContainerLeftMenu">
+			<div style="padding-bottom:60px"></div>
+			<div class="btn-group">
+				<form th:action="Menu">
+					<button class="buttonActive" type="submit" name="button" value="Create account">Create account</button>
+					<button class="buttonLeftMenu" type="submit" name="button" value="Edit account">Edit account</button>
+					<button class="buttonLeftMenu" type="submit" name="button" value="Search account">Search account</button>
+					<button class="buttonLeftMenu" type="submit" name="button" value="Delete account">Delete account</button>
+					<button class="buttonLeftMenu" type="submit" name="button" value="Show all">All employees</button>
+					<button class="buttonLeftMenu" type="submit" name="button" value="Exit">Exit</button>
+				</form>
+			</div>
+		</div>	
+		<div class="ContainerCopyRight">
+			<span style="font-family:Times"><h5>COPYRIGHT © SVETLIOSA 2020</h5></span>
+		</div>
+		<div class="ContainerLogo">
+			<img src="images/logo.png" width=90% height=80%>
+		</div>
+		<div class="ContainerTitle">
+			<span style="font-family:Times"><h2>AdminToolWeb</h2></span>
+		</div>
+		<div class="ContainerCreateTitle">
+			<center><span style="font-family:Times; color:#293541; font-size:45px">Create an account</span></center>
+		</div>
+		<form method="post" th:action="@{/CreateAccount}">
+		<div class="ContainerCreateAccountLeft">
+
+			<input type="text" id="firstName"  th:name="firstName" th:value="${firstName}" placeholder="First name">
+	  		<input type="text" id="secondName" th:name="secondName" th:value="${secondName}" placeholder="Surname">
+	  		<input type="text" id="lastName"   th:name="lastName" th:value="${lastName}" placeholder="Family name">
+	  		<input type="text" id="address"    th:name="address" th:value="${address}" placeholder="Address">
+		</div>
+		<div class="ContainerCreateAccountRight">
+			<input type="text" id="username" th:name="username" th:value="${username}" placeholder="Username">
+	  		<input type="text" id="password" th:name="password" th:value="${password}" placeholder="Password">
+	  		<input type="text" id="repeatPassword" th:name="repeatPassword" th:value="${repeatPassword}" placeholder="Repeat password">
+	  		<input type="text" id="email" th:name="email"th:value="${email}"  placeholder="Email">
+		</div>
+		<div class="ContainerCreateButton">
+			<button class="button button1" type="submit">Create</button>
+		</div>
+		</form>
+
+	</div>
+</div>
+</body>
+</html>

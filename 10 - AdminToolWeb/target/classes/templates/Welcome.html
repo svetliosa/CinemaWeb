@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Svetliosa</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <link rel="shortcut icon" type="image/x-icon" href="images/icon.png">
+	<script src="js/javascript.js"></script>
+</head>
+
+<body style="background-color:#f4f4f4;" >
+
+<span th:if="${createSuccessfully != null}" class="error"><script> alert("Successfully created");</script></span>
+<span th:if="${editSuccessfully != null}" class="error"><script> alert("Successfully edited");</script></span>
+<span th:if="${deleteSuccessfully != null}" class="error"><script> alert("Successfully deleted");</script></span>
+
+
+<div class="Container">
+	<div class="ContainerMain">
+		<div class="ContainerLeftMenu">
+			  <div style="padding-bottom:60px"></div>
+			<div class="btn-group">
+				<form th:action="Menu">
+					<button class="buttonLeftMenu" type="submit" name="button" value="Create account">Create account</button>
+					<button class="buttonLeftMenu" type="submit" name="button" value="Edit account">Edit account</button>
+					<button class="buttonLeftMenu" type="submit" name="button" value="Search account">Search account</button>
+					<button class="buttonLeftMenu" type="submit" name="button" value="Delete account">Delete account</button>
+					<button class="buttonLeftMenu" type="submit" name="button" value="Show all">All employees</button>
+					<button class="buttonLeftMenu" type="submit" name="button" value="Exit">Exit</button>
+				</form>
+			</div>
+		</div>	
+		<div class="ContainerCopyRight">
+			<span style="font-family:Times"><h5>COPYRIGHT © SVETLIOSA 2020</h5></span>
+		</div>
+		<div class="ContainerLogo">
+			<img src="images/logo.png" width=90% height=80%>
+		</div>
+		<div class="ContainerTitle">
+			<span style="font-family:Times"><h2>AdminToolWeb</h2></span>
+		</div>
+		<div class="ContainerWelcome">
+			<div style="padding-bottom:120px"></div>
+			<center><span style="font-family:Times; color:#293541; font-size:75px">Welcome</span></center>
+			
+		</div>
+		
+
+	</div>
+</div>
+
+
+
+
+
+
+
+</body>
+</html>
