@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Svetliosa</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <link rel="shortcut icon" type="image/x-icon" href="images/icon.png">
+	<script src="js/javascript.js"></script>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #ffc966}
+</style>
+
+
+</head>
+
+<body style="background-color:#f4f4f4;" >
+
+<span th:if="${usernameNotFound != null}" class="error"><script> alert("Username not found");</script></span>
+
+<div class="Container">
+	<div class="ContainerMain">
+		<div class="ContainerLeftMenu">
+			<div style="padding-bottom:60px"></div>
+			<div class="btn-group">
+				<form th:action="Menu">
+					<button class="buttonLeftMenu" type="submit" name="button" value="Create account">Create account</button>
+					<button class="buttonLeftMenu" type="submit" name="button" value="Edit account">Edit account</button>
+					<button class="buttonActive" type="submit" name="button" value="Search account">Search account</button>
+					<button class="buttonLeftMenu" type="submit" name="button" value="Delete account">Delete account</button>
+					<button class="buttonLeftMenu" type="submit" name="button" value="Show all">All employees</button>
+					<button class="buttonLeftMenu" type="submit" name="button" value="Exit">Exit</button>
+				</form>
+			</div>
+		</div>	
+		<div class="ContainerCopyRight">
+			<span style="font-family:Times"><h5>COPYRIGHT © SVETLIOSA 2020</h5></span>
+		</div>
+		<div class="ContainerLogo">
+			<img src="images/logo.png" width=90% height=80%>
+		</div>
+		<div class="ContainerTitle">
+			<span style="font-family:Times"><h2>AdminToolWeb</h2></span>
+		</div>
+		<div class="ContainerCreateTitle">
+			<center><span style="font-family:Times; color:#293541; font-size:45px">Search an account</span></center>
+			<div style="padding-bottom:15px"></div>
+			<center><span style="font-family:Times; color:#293541; font-size:25px">Please enter an account's username</span></center>
+		</div>
+		<form method="get" th:action="@{/SearchAccount}">
+		<div class="ContainerSearchLeft">
+				<input type="text" id="usernameSearch" th:name="usernameSearch" th:value="${usernameSearch}" placeholder="Username">
+		</div>
+		<div class="ContainerSearchRight">
+				<button class="button button1">Search</button>
+		</div>
+		</form>
+		<div class="ContainerSearchShowData" th:if="${usernameExist != null}">
+			<div style="overflow-x:auto;">
+			    <table>
+				    <tr>
+				      <th>First name</th>
+				      <th>Surname</th>
+				      <th>Family name</th>
+				      <th>Address</th>
+				      <th>Username</th>
+				      <th>Password</th>
+				      <th>Repeat password</th>
+				      <th>Email</th>
+				    </tr>
+				    <tr>
+						<td><p th:text="${firstName}"><p></td>
+				      <td><p th:text="${secondName}"><p></td>
+				      <td><p th:text="${lastName}"><p></td>
+				      <td><p th:text="${address}"><p></td>
+				      <td><p th:text="${username}"><p></td>
+				      <td><p th:text="${password}"><p></td>
+				      <td><p th:text="${repeatPassword}"><p></td>
+				      <td><p th:text="${email}"><p></td>
+				    </tr>
+			   </table>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

@@ -14,6 +14,6 @@ import javax.servlet.http.HttpServletRequest;
 public class indexCinema {
     @RequestMapping(value = "/indexCinema")
     public String indexCinema() {
-            return "LoginCinema";
-        }
+        return "jsp/LoginCinema";
+    }
 }
